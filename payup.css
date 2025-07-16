@@ -1,18 +1,10 @@
-:root {
-  --bg: white;
-  --text: black;
-}
-
 body {
-  background: var(--bg);
-  color: var(--text);
+  background: #212121;
+  color: #ffffff;
+  text-align: center;
   transition: 0.3s ease;
   font-family: Arial, sans-serif;
   padding: 2rem;
-}
-
-content {
-  text-align: center;
 }
 
 .toggle {
