@@ -6,3 +6,8 @@ body {
   font-family: Arial, sans-serif;
   padding: 2rem;
 }
+
+.content {
+  max-width: 90vw;
+  margin: 0 auto;
+}
